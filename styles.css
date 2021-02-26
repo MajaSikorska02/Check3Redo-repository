@@ -1,0 +1,63 @@
+@charset "utf-8";
+.my-class {
+    background-color: #EA9B91;
+}
+
+#myid {
+	background-color: #EA9B91; 
+	width: 750px; 
+	height: 265px; 
+}
+p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.parent {
+	width: auto;
+	height: auto;  
+}
+.first {
+	width: 750px;
+	border-right: thin solid #000000;
+}
+.second {
+	color: #FFFFFF;
+	width: 320px;
+	background-color: #FFD8E3;
+	height: 310px;
+	margin-left: 790px;
+	text-align: justify;
+	clear: right;
+	border-bottom: medium dotted #000000;
+	list-style-position: inside;
+	margin-top: -393px;
+	
+}
+.third {
+	color: #FFFFFF;
+	width: 320px;
+	background-color: #FFB4C9;
+	height: 100px;
+	margin-left: 790px;
+	text-align: justify;
+	clear: right;
+	border-bottom: medium dotted #000000;
+	
+}
+.fourth {
+		color: #FFFFFF;
+	width: 320px;
+	background-color: #FF90AF;
+	height: 100px;
+	margin-left: 790px;
+	text-align: justify;
+	clear: right;
+	border-bottom-style: dotted;
+	border-bottom-color: #000000;
+}
+.myheader {
+	width: 710px;
+	height: 259px;
+	background-image:url("images/patrickheader.jpg"); 
+	margin-left: auto;
+	margin-right: auto;
+}
